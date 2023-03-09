@@ -1,6 +1,3 @@
-# Movie-data-correlation-analysis
-Analyse movies data from Rotten Tomatoes to find correlation between budget, gross profit, production companies, ratings, etc
-
 # [Project 1: Film data correlation analysis]
 * Analyse movies data from Rotten Tomatoes to find correlation between budget, gross profit, production companies, ratings, etc
 * Created a correlation table that shows and visualises correlation between film budget, gross profit, production companies, ratings, etc to better understand the movie industry.
