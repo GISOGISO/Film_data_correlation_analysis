@@ -7,9 +7,9 @@ Analyse movies data from Rotten Tomatoes to find correlation between budget, gro
 * Optimized numpy, seaborn, matplotlib to analyse the correlation between various data and visualise the result.
 
 # [Project 2: Amazon web scrapper]
-Scrape data of a product from Amazon to find product details
-Connect to Amazon through API
-Automate the code to send email notification to user when price is below certain level
+* Scrape data of a product from Amazon to find product details
+* Connect to Amazon through API
+* Automate the code to send email notification to user when price is below certain level
 
 
 
