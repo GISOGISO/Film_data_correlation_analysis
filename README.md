@@ -1,6 +1,6 @@
 # Project 1: Film data correlation analysis
 **Project overview:**
-* Find correlation of gross profit vs budget, production companies and ratings by analysing over 5,000 film titles from 1980-2020 with data scrape from iMDb. 
+* Find correlation of gross revenue vs budget, production companies and ratings by analysing over 5,000 film titles from 1980-2020 with data scrape from iMDb. 
 * Visualise data using correlation matrix heatmap, regression plot and scatter plot.  
 * Optimized numpy, seaborn, matplotlib, pandas for data cleaning and preprocessing, data analysis and visualisation.
 
