@@ -3,7 +3,7 @@
 * Visualise data using correlation matrix heatmap, regression plot and scatter plot.  
 * Optimized numpy, seaborn, matplotlib, pandas for data cleaning and preprocessing, data analysis and visualisation.
 
-*Findings: 
+Findings: 
 1. Votes and budgets have the highest correlation to gross earnings.
 2. Production company has low correlation vs gross earnings
 
