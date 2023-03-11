@@ -17,7 +17,7 @@ Data references:
 * country: country of origin
 * director: the director
 * genre: main genre of the film.
-* gross_revenue: revenue of the film
+* gross_revenue: gross revenue of the film
 * name: name of the film
 * rating: rating of the film (R, PG, etc.)
 * released_year: year of release
