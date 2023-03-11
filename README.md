@@ -9,7 +9,7 @@
 2. Production company has low correlation to gross earnings.
 
 ![](https://github.com/GISOGISO/Film_data_correlation_analysis/blob/main/images/Film%20data%20correlation%20analysis_Correlation%20matrix%20heatmap.png)
-![](https://github.com/GISOGISO/Film_data_correlation_analysis/blob/main/images/Correlation_Budget%20and%20Gross%20revenue_Regression%20graph.png)
+![](https://github.com/GISOGISO/Film_data_correlation_analysis/blob/main/images/Correlation_Budget%20and%20Gross%20revenue%20-%20Scatter%20plot%20with%20regression%20line.png)
 
 Data references:
 
