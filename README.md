@@ -12,19 +12,19 @@
 
 Data references:
 
-budget: budget of the film.
-production_company: the production company
-country: country of origin
-director: the director
-genre: main genre of the film.
-gross_revenue: revenue of the film
-name: name of the film
-rating: rating of the film (R, PG, etc.)
-released_year: year of release
-runtime: duration of the film
-score: IMDb user rating
-votes: number of user votes
-star: main actor/actress
-writer: writer of the film
+* budget: budget of the film.
+* production_company: the production company
+* country: country of origin
+* director: the director
+* genre: main genre of the film.
+* gross_revenue: revenue of the film
+* name: name of the film
+* rating: rating of the film (R, PG, etc.)
+* released_year: year of release
+* runtime: duration of the film
+* score: IMDb user rating
+* votes: number of user votes
+* star: main actor/actress
+* writer: writer of the film
 
 
