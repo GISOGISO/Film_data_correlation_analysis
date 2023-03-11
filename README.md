@@ -1,10 +1,10 @@
 # Project 1: Film data correlation analysis
-Project overview:
+**Project overview:**
 * Find correlation between film budget, gross profit, production companies, ratings, etc by analysing over 5,000 film titles from 1980-2020 with data scrape from iMDb. 
 * Visualise data using correlation matrix heatmap, regression plot and scatter plot.  
 * Optimized numpy, seaborn, matplotlib, pandas for data cleaning and preprocessing, data analysis and visualisation.
 
-Findings: 
+**Findings:** 
 1. Votes and budgets have the highest correlation to gross earnings.
 2. Production company has low correlation to gross earnings.
 
