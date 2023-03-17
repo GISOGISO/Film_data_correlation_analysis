@@ -5,8 +5,8 @@
 * Optimized numpy, seaborn, matplotlib, pandas for data cleaning and preprocessing, data analysis and visualisation.
 
 **Findings:** 
-1. Votes and budgets have the highest correlation to gross earnings.
-2. Production company has low correlation to gross earnings.
+1. Votes and budgets have the highest correlation to gross revenue.
+2. Production company has low correlation to gross revenue.
 
 ![](https://github.com/GISOGISO/Film_data_correlation_analysis/blob/main/images/Film%20data%20correlation%20analysis_Correlation%20matrix%20heatmap.png)
 ![](https://github.com/GISOGISO/Film_data_correlation_analysis/blob/main/images/Correlation_Budget%20and%20Gross%20revenue%20-%20Scatter%20plot%20with%20regression%20line.png)
